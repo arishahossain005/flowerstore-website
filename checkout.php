@@ -113,10 +113,10 @@ if(isset($_POST['order'])){
             <div class="inputBox">
                 <span>payment method :</span>
                 <select name="method">
-                    <option value="cash on delivery">cash on delivery</option>
-                    <option value="credit card">credit card</option>
-                    <option value="paypal">bkash</option>
-                    <option value="paytm">visacard</option>
+                    <option value="cash on delivery">Cash on Delivery</option>
+                    <option value="bkash">Bkash</option>
+                    <option value="visa card">Visa Card</option>
+                    <option value="credit card">Credit Card</option>
                 </select>
             </div>
             <div class="inputBox">
@@ -125,23 +125,23 @@ if(isset($_POST['order'])){
             </div>
             <div class="inputBox">
                 <span>address line 02 :</span>
-                <input type="text" name="street" placeholder="e.g.  streen name">
+                <input type="text" name="street" placeholder="e.g.  street name">
             </div>
             <div class="inputBox">
                 <span>city :</span>
-                <input type="text" name="city" placeholder="e.g. mumbai">
+                <input type="text" name="city" placeholder="e.g. Dhaka">
             </div>
             <div class="inputBox">
                 <span>state :</span>
-                <input type="text" name="state" placeholder="e.g. maharashtra">
+                <input type="text" name="state" placeholder="e.g. Dhaka">
             </div>
             <div class="inputBox">
                 <span>country :</span>
-                <input type="text" name="country" placeholder="e.g. india">
+                <input type="text" name="country" placeholder="e.g. Bangladesh">
             </div>
             <div class="inputBox">
                 <span>pin code :</span>
-                <input type="number" min="0" name="pin_code" placeholder="e.g. 123456">
+                <input type="number" min="0" name="pin_code" placeholder="e.g. 0123456">
             </div>
         </div>
 

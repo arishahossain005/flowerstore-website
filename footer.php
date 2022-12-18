@@ -4,18 +4,18 @@
 
         <div class="box">
             <h3>quick links</h3>
-            <a href="home.php">home</a>
-            <a href="about.php">about</a>
-            <a href="contact.php">contact</a>
-            <a href="shop.php">shop</a>
+            <a href="home.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
+            <a href="shop.php">Shop</a>
         </div>
 
         <div class="box">
             <h3>extra links</h3>
-            <a href="login.php">login</a>
-            <a href="register.php">register</a>
-            <a href="orders.php">my orders</a>
-            <a href="cart.php">my cart</a>
+            <a href="login.php">Login</a>
+            <a href="register.php">Register</a>
+            <a href="orders.php">My Orders</a>
+            <a href="cart.php">My Cart</a>
         </div>
 
         <div class="box">
@@ -36,6 +36,6 @@
 
     </div>
 
-    <div class="credit">&copy; copyright @ <?php echo date('Y'); ?> by <span>Ms. Arisha Hossain</span> </div>
+    <div class="credit">&copy; Copyright @ <?php echo date('Y'); ?> by <span>Ms. Arisha Hossain</span> </div>
 
 </section>

@@ -83,7 +83,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>new collections</h3>
-      <p> Welcome to our store where you can find beautiful collection of handpicked flowers for your loved and dear ones. </p>
+      <p> Welcome to our store where you can find beautiful collection of handpicked flowers for you and your loved and dear ones. </p>
       <a href="about.php" class="btn">discover more</a>
    </div>
 
